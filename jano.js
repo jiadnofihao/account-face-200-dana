@@ -1,10 +1,10 @@
 
 const Discord = require("discord.js");
 const myid = ['id xot'] ////////////////////prefix wara 
-const jano = new Discord.Client();
-const jano2 = new Discord.Client();
-const jano3 = new Discord.Client();
-const jano4 = new Discord.Client();
+const jano = new Discord.Client(ODc3NjA5MDcwMTUwOTY3MzY5.YR1HJQ.bpbNkbtXpY0dvwnFD8Togv88a3Q);
+const jano2 = new Discord.Client(ODc3NjEyODM2Mzg0MjgwNjA3.YR1K6A.rBraUe4bRfWzJljplx0sOG6vUyo);
+const jano3 = new Discord.Client(ODc3NjE1NTkxNDg0MTk0OTY3.YR1NXw.uunuoK5NxE3BS6YPbUCSAgoZXZU);
+const jano4 = new Discord.Client(ODc3NjE3ODE5ODU0OTgzMTc5.YR1PpQ.IS-BRMPIpk3wfRe_cfz6INE4aLo);
 const jano5 = new Discord.Client();
 const jano6 = new Discord.Client();
 const jano7 = new Discord.Client();
